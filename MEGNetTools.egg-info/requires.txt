@@ -1,0 +1,6 @@
+figrecipes==0.0.7
+megnet==1.3.2
+numpy==1.23.5
+pandas==1.5.2
+scikit_learn==1.2.1
+setuptools==65.5.1

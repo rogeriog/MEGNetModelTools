@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: MEGNetTools
+Version: 0.0.1
+Summary: A package to manipulate and generate MEGNet models from a given dataset.
+Author: Rogerio Gouvea
+Author-email: <rogeriog.em@gmail.com>
+Keywords: python,megnet,machine learning,hyperparameters
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Description-Content-Type: text/markdown
+
+
+# MEGNet Tools
+This package makes it easy to manipulate and generate custom MEGNet models. 

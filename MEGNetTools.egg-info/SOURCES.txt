@@ -1,0 +1,11 @@
+README.md
+setup.py
+MEGNetTools.egg-info/PKG-INFO
+MEGNetTools.egg-info/SOURCES.txt
+MEGNetTools.egg-info/dependency_links.txt
+MEGNetTools.egg-info/not-zip-safe
+MEGNetTools.egg-info/requires.txt
+MEGNetTools.egg-info/top_level.txt
+megnet-tools/MEGNetHyperTuning.py
+megnet-tools/MEGNetSetupEvaluate.py
+megnet-tools/__init__.py
