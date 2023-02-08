@@ -1,1 +1,1 @@
-megnet-tools
+megnettools
